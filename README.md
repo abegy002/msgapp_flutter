@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # msgapp_flutter
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# msgapp_flutter
+>>>>>>> facbffa5151d8d2867a86c58b4af05bad4a9bea7
