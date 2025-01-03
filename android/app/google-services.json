@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078600878591",
+    "project_id": "msgapp-f2647",
+    "storage_bucket": "msgapp-f2647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078600878591:android:95334051b00482efd97fca",
+        "android_client_info": {
+          "package_name": "com.example.msgapp_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MqwRRidIZJjHb3pWH_26BG4gBFxKpN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078600878591:android:0c6ab22583f3972ad97fca",
+        "android_client_info": {
+          "package_name": "com.msg.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2MqwRRidIZJjHb3pWH_26BG4gBFxKpN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
